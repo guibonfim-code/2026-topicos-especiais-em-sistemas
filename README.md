@@ -4,7 +4,7 @@ Repositório com o projetos da disciplina de Tópicos Especiais em Sistemas
 
 ## 👥 Integrantes
 Walter Potma de Brito
-Rgm 43101607
+RGM 43101607
 walter.brito@cs.up.edu.br
 
 Luiz Fernando Chaim
